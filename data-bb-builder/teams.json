@@ -176,7 +176,41 @@
     },
     {
         "name":"Dark Elves",
-        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Skaven.png",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2018/09/Dark-Elf-Team-Icon.png",
+        "players" : [
+            {
+                "name":"Dark Elf Linemen",
+                "cost":70,
+                "max":12
+            },
+            {
+                "name":"Runners",
+                "cost":80,
+                "max":2
+            },
+            {
+                "name":"Blitzers",
+                "cost":100,
+                "max":4
+            },
+            {
+                "name":"Assassins",
+                "cost":85,
+                "max":2
+            },
+            {
+                "name":"Witch Elves",
+                "cost":110,
+                "max":2
+            }
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["Elves"]
+    },,
+    {
+        "name":"Dark Elves",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2018/09/Dark-Elf-Team-Icon.png",
         "players" : [
             {
                 "name":"Dark Elf Linemen",
