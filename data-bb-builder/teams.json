@@ -39,6 +39,40 @@
         "rules" : ["ClassicOldWorld"]
     },
     {
+        "name":"Dwarfs",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Dwarf.png",
+        "players" : [
+            {
+                "name":"Dwarf Blocker Linemen",
+                "cost":70,
+                "max":12
+            },
+            {
+                "name":"Runner",
+                "cost":85,
+                "max":2
+            },
+            {
+                "name":"Blitzer",
+                "cost":80,
+                "max":2
+            },
+            {
+                "name":"Troll Slayers",
+                "cost":95,
+                "max":2
+            },
+            {
+                "name":"Deathroller",
+                "cost":170,
+                "max":1
+            }
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["ClassicOldWorld"]
+    },
+    {
         "name":"Orcs",
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Ork.png",
         "players" : [
@@ -76,40 +110,6 @@
         "teamRerollCost" : 60,
         "apothicaire" : true,
         "rules" : ["AridLands"]
-    },
-    {
-        "name":"Dwarfs",
-        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Dwarf.png",
-        "players" : [
-            {
-                "name":"Dwarf Blocker Linemen",
-                "cost":70,
-                "max":12
-            },
-            {
-                "name":"Runner",
-                "cost":85,
-                "max":2
-            },
-            {
-                "name":"Blitzer",
-                "cost":80,
-                "max":2
-            },
-            {
-                "name":"Troll Slayers",
-                "cost":95,
-                "max":2
-            },
-            {
-                "name":"Deathroller",
-                "cost":170,
-                "max":1
-            }
-        ],
-        "teamRerollCost" : 50,
-        "apothicaire" : true,
-        "rules" : ["ClassicOldWorld"]
     },
     {
         "name":"Goblins",
@@ -159,40 +159,6 @@
         "teamRerollCost" : 60,
         "apothicaire" : true,
         "rules" : ["AridLands"]
-    },
-    {
-        "name":"Dwarfs",
-        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Dwarf.png",
-        "players" : [
-            {
-                "name":"Dwarf Blocker Linemen",
-                "cost":70,
-                "max":12
-            },
-            {
-                "name":"Runner",
-                "cost":85,
-                "max":2
-            },
-            {
-                "name":"Blitzer",
-                "cost":80,
-                "max":2
-            },
-            {
-                "name":"Troll Slayers",
-                "cost":95,
-                "max":2
-            },
-            {
-                "name":"Deathroller",
-                "cost":170,
-                "max":1
-            }
-        ],
-        "teamRerollCost" : 50,
-        "apothicaire" : true,
-        "rules" : ["ClassicOldWorld"]
     },
     {
         "name":"Skavens",
