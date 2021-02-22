@@ -33,8 +33,10 @@
                 "cost":140,
                 "max":1
             }
-        ]
-
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["ClassicOldWorld"]
     },
     {
         "name":"Orcs",
@@ -70,8 +72,10 @@
                 "cost":115,
                 "max":1
             }
-        ]
-
+        ],
+        "teamRerollCost" : 60,
+        "apothicaire" : true,
+        "rules" : ["AridLands"]
     },
     {
         "name":"Dwarf",
@@ -80,7 +84,7 @@
             {
                 "name":"Dwarf Blocker Lineman",
                 "cost":70,
-                "max":16
+                "max":12
             },
             {
                 "name":"Runner",
@@ -102,7 +106,10 @@
                 "cost":170,
                 "max":1
             }
-        ]
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["ClassicOldWorld"]
     },
     {
         "name":"Skaven",
@@ -133,7 +140,73 @@
                 "cost":170,
                 "max":1
             }
-        ]
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["Underworld"]
+    },
+    {
+        "name":"Elven Unions",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2017/12/ElfheimEagles.png",
+        "players" : [
+            {
+                "name":"Linemen",
+                "cost":60,
+                "max":12
+            },
+            {
+                "name":"Throwers",
+                "cost":75,
+                "max":2
+            },
+            {
+                "name":"Catchers",
+                "cost":100,
+                "max":4
+            },
+            {
+                "name":"Blitzers",
+                "cost":115,
+                "max":2
+            }
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["Elves"]
+    },
+    {
+        "name":"Dark Elves",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Skaven.png",
+        "players" : [
+            {
+                "name":"Dark Elf Linemen",
+                "cost":70,
+                "max":12
+            },
+            {
+                "name":"Runners",
+                "cost":80,
+                "max":2
+            },
+            {
+                "name":"Blitzers",
+                "cost":100,
+                "max":4
+            },
+            {
+                "name":"Assassins",
+                "cost":85,
+                "max":2
+            },
+            {
+                "name":"Witch Elves",
+                "cost":110,
+                "max":2
+            }
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["Elves"]
     }
 ]
 
