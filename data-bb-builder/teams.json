@@ -112,6 +112,89 @@
         "rules" : ["ClassicOldWorld"]
     },
     {
+        "name":"Goblins",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2017/11/Goblin.png",
+        "players" : [
+            {
+                "name":"Goblin Linemen",
+                "cost":40,
+                "max":16
+            },
+            {
+                "name":"Bomma",
+                "cost":45,
+                "max":1
+            },
+            {
+                "name":"Looney",
+                "cost":40,
+                "max":1
+            },
+            {
+                "name":"Fanatic",
+                "cost":70,
+                "max":1
+            },
+            {
+                "name":"Pogoer",
+                "cost":75,
+                "max":1
+            },
+            {
+                "name":"Ooligan",
+                "cost":65,
+                "max":1
+            },
+            {
+                "name":"Doom Diver",
+                "cost":60,
+                "max":1
+            },
+            {
+                "name":"Trained Troll",
+                "cost":115,
+                "max":2
+            }
+        ],
+        "teamRerollCost" : 60,
+        "apothicaire" : true,
+        "rules" : ["AridLands"]
+    },
+    {
+        "name":"Dwarfs",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Dwarf.png",
+        "players" : [
+            {
+                "name":"Dwarf Blocker Linemen",
+                "cost":70,
+                "max":12
+            },
+            {
+                "name":"Runner",
+                "cost":85,
+                "max":2
+            },
+            {
+                "name":"Blitzer",
+                "cost":80,
+                "max":2
+            },
+            {
+                "name":"Troll Slayers",
+                "cost":95,
+                "max":2
+            },
+            {
+                "name":"Deathroller",
+                "cost":170,
+                "max":1
+            }
+        ],
+        "teamRerollCost" : 50,
+        "apothicaire" : true,
+        "rules" : ["ClassicOldWorld"]
+    },
+    {
         "name":"Skavens",
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Skaven.png",
         "players" : [
@@ -207,35 +290,35 @@
         "teamRerollCost" : 50,
         "apothicaire" : true,
         "rules" : ["Elves"]
-    },,
+    },
     {
-        "name":"Dark Elves",
-        "img":"https://www.bloodbowl.com/wp-content/uploads/2018/09/Dark-Elf-Team-Icon.png",
+        "name":"Wood Elves",
+        "img":"https://www.bloodbowl.com/wp-content/uploads/2020/10/CiO65uWQ1OK7df7x.png",
         "players" : [
             {
-                "name":"Dark Elf Linemen",
+                "name":"Wood Elf Linemen",
                 "cost":70,
                 "max":12
             },
             {
-                "name":"Runners",
-                "cost":80,
+                "name":"Throwers",
+                "cost":95,
                 "max":2
             },
             {
-                "name":"Blitzers",
-                "cost":100,
+                "name":"Catchers",
+                "cost":90,
                 "max":4
             },
             {
-                "name":"Assassins",
-                "cost":85,
+                "name":"Wardancers",
+                "cost":125,
                 "max":2
             },
             {
-                "name":"Witch Elves",
-                "cost":110,
-                "max":2
+                "name":"Loren Forest Treeman",
+                "cost":120,
+                "max":1
             }
         ],
         "teamRerollCost" : 50,
