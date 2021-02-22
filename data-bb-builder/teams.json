@@ -4,7 +4,7 @@
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Human.png",
         "players" : [
             {
-                "name":"Human Lineman",
+                "name":"Human Linemen",
                 "cost":50,
                 "max":16
             },
@@ -43,7 +43,7 @@
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Ork.png",
         "players" : [
             {
-                "name":"Orc Lineman",
+                "name":"Orc Linemen",
                 "cost":50,
                 "max":16
             },
@@ -78,11 +78,11 @@
         "rules" : ["AridLands"]
     },
     {
-        "name":"Dwarf",
+        "name":"Dwarfs",
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Dwarf.png",
         "players" : [
             {
-                "name":"Dwarf Blocker Lineman",
+                "name":"Dwarf Blocker Linemen",
                 "cost":70,
                 "max":12
             },
@@ -112,7 +112,7 @@
         "rules" : ["ClassicOldWorld"]
     },
     {
-        "name":"Skaven",
+        "name":"Skavens",
         "img":"https://www.bloodbowl.com/wp-content/uploads/2016/09/Skaven.png",
         "players" : [
             {
